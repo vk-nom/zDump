@@ -7,3 +7,5 @@ Simple Code to mess with/dynamically dump Fortnite's sdk, without the anti cheat
 # Development Log:
 
 4/30/21-12:13: Create Repository and Comit Readme
+
+4/30/21-4:33: Add Fortnite Window hook + Dump Pointers Via Pasted Driver Handle.
