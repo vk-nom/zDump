@@ -6,6 +6,8 @@ Simple Code to mess with/dynamically dump Fortnite's sdk, without the anti cheat
 Small Example.
 https://streamable.com/gszkrj
 
+Feel Free to Join Our Discord Server: https://discord.gg/mfjWgQRG8U
+
 
 
 # Development Log:
