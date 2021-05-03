@@ -11,11 +11,14 @@
 </p>
 
 
-Dumping Fortnite SDK dynamically from kernel-mode (with a mapped driver). zDump is still in development, however it will be updated throughout May.
+Fully protected dynamic Fortnite SDK dumper from kernel-mode with XOR & secure Driver communication. 
+zDump is still in development, however it will be updated throughout May.
+
+# Driver mapping
+We prefer kdmapper for mapping drivers (1909) but it is completely optional however you still have to load the driver somehow!
 
 
-
-# Development Log:
+# Development Log
 
 4/30/21-12:13: Create Repository and Comit Readme
 
