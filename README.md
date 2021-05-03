@@ -1,12 +1,17 @@
 # zDump
 
-Simple Code to mess with/dynamically dump Fortnite's sdk, without the anti cheat knowing (kernel-mode). This is a free c++ library of programs, dll's and more. zDump is still in development but I will be updating and commiting to this repo throughout May.
+<br />
+<p align="center">
+  <p align="center">
+    Dynamically dump Fortnite's SDK with EAC/BE enabled.
+    <br />
+    <br />
+	  <a href="https://discord.gg/KGxNWmjxph">Discord Server</a>
+  </p>
+</p>
 
 
-Small Example.
-https://streamable.com/gszkrj
-
-Feel Free to Join Our Discord Server: https://discord.gg/mfjWgQRG8U
+Dumping Fortnite SDK dynamically from kernel-mode (with a mapped driver). zDump is still in development, however it will be updated throughout May.
 
 
 
